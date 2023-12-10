@@ -1,0 +1,11 @@
+Window object :
+
+Top layer of BOM.
+BOM - Browser object model.
+properties like browser history,location, and the screen.
+
+Document Object Model :
+
+It creats DOM.
+DOM - Document object model.
+Represents the all html documents.
